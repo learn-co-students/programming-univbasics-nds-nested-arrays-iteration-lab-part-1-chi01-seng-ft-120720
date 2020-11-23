@@ -1,4 +1,4 @@
-# Nested Data Structures: Printing Data Lab
+ # Nested Data Structures: Printing Data Lab
 
 ## Learning Goals
 
